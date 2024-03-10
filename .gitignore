@@ -1,0 +1,7 @@
+Data/
+.MediaMixModels
+.git
+build
+dist
+.DS_Store
+MediaMixModelDemo.egg-info/
